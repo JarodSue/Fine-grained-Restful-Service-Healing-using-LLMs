@@ -1,0 +1,127 @@
+09-Sep-2024 11:02:32.804 INFO [main] org.apache.catalina.core.StandardServer.await Une commande d'arrêt valide a été reçue sur le port d'arrêt, arrêt de l'instance du serveur
+09-Sep-2024 11:02:32.815 INFO [main] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-1082"] est mis en pause
+09-Sep-2024 11:02:32.926 INFO [main] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+09-Sep-2024 11:02:33.541 INFO [main] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-1082"]
+09-Sep-2024 11:02:33.575 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-1082"]
+09-Sep-2024 11:02:37.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/9.0.70
+09-Sep-2024 11:02:37.424 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Dec 1 2022 14:05:47 UTC
+09-Sep-2024 11:02:37.425 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               9.0.70.0
+09-Sep-2024 11:02:37.425 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+09-Sep-2024 11:02:37.425 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+09-Sep-2024 11:02:37.425 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+09-Sep-2024 11:02:37.425 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17
+09-Sep-2024 11:02:37.425 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+09-Sep-2024 11:02:37.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+09-Sep-2024 11:02:37.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\jarod\Documents\S1\tomcat1082
+09-Sep-2024 11:02:37.426 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Users\jarod\Documents\S1\tomcat1082
+09-Sep-2024 11:02:37.449 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Sep-2024 11:02:37.449 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+09-Sep-2024 11:02:37.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+09-Sep-2024 11:02:37.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-Sep-2024 11:02:37.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Sep-2024 11:02:37.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\jarod\Documents\S1\tomcat1082\conf\logging.properties
+09-Sep-2024 11:02:37.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Sep-2024 11:02:37.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dhttp.nonProxyHosts=localhost|127.0.0.1|JarodBoulot
+09-Sep-2024 11:02:37.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djdk.tls.ephemeralDHKeySize=2048
+09-Sep-2024 11:02:37.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Sep-2024 11:02:37.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dignore.endorsed.dirs=
+09-Sep-2024 11:02:37.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\jarod\Documents\S1\tomcat1082
+09-Sep-2024 11:02:37.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Users\jarod\Documents\S1\tomcat1082
+09-Sep-2024 11:02:37.452 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\jarod\Documents\S1\tomcat1082\temp
+09-Sep-2024 11:02:37.532 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path : [C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\jarod\AppData\Local\Microsoft\WindowsApps;C:\Users\jarod\AppData\Local\Programs\Microsoft VS Code\bin;.]
+09-Sep-2024 11:02:38.513 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-1082"]
+09-Sep-2024 11:02:38.575 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [1756] millisecondes
+09-Sep-2024 11:02:38.687 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+09-Sep-2024 11:02:38.687 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/9.0.70]
+09-Sep-2024 11:02:38.726 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml]
+09-Sep-2024 11:02:38.770 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/pay] dans le descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a été ignoré
+09-Sep-2024 11:02:54.060 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès ; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+09-Sep-2024 11:03:24.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a pris [45 638] ms
+09-Sep-2024 11:03:24.363 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\docs]
+09-Sep-2024 11:03:24.422 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\docs] de l'application web s'est terminé en [58] ms
+09-Sep-2024 11:03:24.422 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\examples]
+09-Sep-2024 11:03:25.107 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\examples] de l'application web s'est terminé en [685] ms
+09-Sep-2024 11:03:25.108 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\host-manager]
+09-Sep-2024 11:03:25.178 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\host-manager] de l'application web s'est terminé en [69] ms
+09-Sep-2024 11:03:25.179 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\manager]
+09-Sep-2024 11:03:25.249 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\manager] de l'application web s'est terminé en [71] ms
+09-Sep-2024 11:03:25.253 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-1082"]
+09-Sep-2024 11:03:25.283 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [46708] millisecondes
+09-Sep-2024 13:42:22.681 INFO [http-nio-1082-exec-10] org.apache.catalina.startup.HostConfig.undeploy Retrait de l'application web ayant pour chemin de contexte [/pay]
+09-Sep-2024 13:42:22.710 INFO [http-nio-1082-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml]
+09-Sep-2024 13:42:22.713 WARNING [http-nio-1082-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/pay] dans le descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a été ignoré
+09-Sep-2024 13:42:31.698 INFO [http-nio-1082-exec-14] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès ; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+09-Sep-2024 13:42:45.041 INFO [http-nio-1082-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a pris [22 331] ms
+09-Sep-2024 13:42:45.046 INFO [http-nio-1082-exec-8] org.apache.catalina.util.LifecycleBase.start La méthode start() a été appelée sur le composant [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/pay]] après que start() ait déjà été appelé, le deuxième appel sera ignoré
+09-Sep-2024 14:00:09.580 INFO [http-nio-1082-exec-27] org.apache.catalina.startup.HostConfig.undeploy Retrait de l'application web ayant pour chemin de contexte [/pay]
+09-Sep-2024 14:00:09.595 INFO [http-nio-1082-exec-18] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml]
+09-Sep-2024 14:00:09.596 WARNING [http-nio-1082-exec-18] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/pay] dans le descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a été ignoré
+09-Sep-2024 14:00:15.385 INFO [http-nio-1082-exec-18] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès ; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+09-Sep-2024 14:00:27.716 INFO [http-nio-1082-exec-18] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a pris [18 121] ms
+09-Sep-2024 14:00:27.720 INFO [http-nio-1082-exec-25] org.apache.catalina.util.LifecycleBase.start La méthode start() a été appelée sur le composant [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/pay]] après que start() ait déjà été appelé, le deuxième appel sera ignoré
+09-Sep-2024 14:06:10.778 INFO [http-nio-1082-exec-34] org.apache.catalina.startup.HostConfig.undeploy Retrait de l'application web ayant pour chemin de contexte [/pay]
+09-Sep-2024 14:06:10.790 INFO [http-nio-1082-exec-36] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml]
+09-Sep-2024 14:06:10.791 WARNING [http-nio-1082-exec-36] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/pay] dans le descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a été ignoré
+09-Sep-2024 14:06:16.658 INFO [http-nio-1082-exec-36] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès ; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+09-Sep-2024 14:06:27.213 INFO [http-nio-1082-exec-36] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a pris [16 423] ms
+09-Sep-2024 14:06:27.217 INFO [http-nio-1082-exec-28] org.apache.catalina.util.LifecycleBase.start La méthode start() a été appelée sur le composant [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/pay]] après que start() ait déjà été appelé, le deuxième appel sera ignoré
+09-Sep-2024 14:15:13.361 INFO [http-nio-1082-exec-39] org.apache.catalina.startup.HostConfig.undeploy Retrait de l'application web ayant pour chemin de contexte [/pay]
+09-Sep-2024 14:15:13.373 INFO [http-nio-1082-exec-46] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml]
+09-Sep-2024 14:15:13.374 WARNING [http-nio-1082-exec-46] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/pay] dans le descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a été ignoré
+09-Sep-2024 14:15:19.159 INFO [http-nio-1082-exec-46] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès ; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+09-Sep-2024 14:15:29.967 INFO [http-nio-1082-exec-46] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a pris [16 593] ms
+09-Sep-2024 14:15:29.971 INFO [http-nio-1082-exec-43] org.apache.catalina.util.LifecycleBase.start La méthode start() a été appelée sur le composant [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/pay]] après que start() ait déjà été appelé, le deuxième appel sera ignoré
+09-Sep-2024 14:25:09.418 INFO [main] org.apache.catalina.core.StandardServer.await Une commande d'arrêt valide a été reçue sur le port d'arrêt, arrêt de l'instance du serveur
+09-Sep-2024 14:25:09.418 INFO [main] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-1082"] est mis en pause
+09-Sep-2024 14:25:09.426 INFO [main] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+09-Sep-2024 14:25:09.515 INFO [main] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-1082"]
+09-Sep-2024 14:25:09.518 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-1082"]
+09-Sep-2024 14:25:12.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/9.0.70
+09-Sep-2024 14:25:12.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Dec 1 2022 14:05:47 UTC
+09-Sep-2024 14:25:12.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               9.0.70.0
+09-Sep-2024 14:25:12.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+09-Sep-2024 14:25:12.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+09-Sep-2024 14:25:12.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+09-Sep-2024 14:25:12.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17
+09-Sep-2024 14:25:12.612 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+09-Sep-2024 14:25:12.612 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+09-Sep-2024 14:25:12.612 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\jarod\Documents\S1\tomcat1082
+09-Sep-2024 14:25:12.612 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Users\jarod\Documents\S1\tomcat1082
+09-Sep-2024 14:25:12.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Sep-2024 14:25:12.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+09-Sep-2024 14:25:12.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+09-Sep-2024 14:25:12.625 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-Sep-2024 14:25:12.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Sep-2024 14:25:12.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\jarod\Documents\S1\tomcat1082\conf\logging.properties
+09-Sep-2024 14:25:12.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Sep-2024 14:25:12.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dhttp.nonProxyHosts=localhost|127.0.0.1|JarodBoulot
+09-Sep-2024 14:25:12.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djdk.tls.ephemeralDHKeySize=2048
+09-Sep-2024 14:25:12.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Sep-2024 14:25:12.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dignore.endorsed.dirs=
+09-Sep-2024 14:25:12.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\jarod\Documents\S1\tomcat1082
+09-Sep-2024 14:25:12.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Users\jarod\Documents\S1\tomcat1082
+09-Sep-2024 14:25:12.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\jarod\Documents\S1\tomcat1082\temp
+09-Sep-2024 14:25:12.712 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path : [C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\jarod\AppData\Local\Microsoft\WindowsApps;C:\Users\jarod\AppData\Local\Programs\Microsoft VS Code\bin;.]
+09-Sep-2024 14:25:12.982 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-1082"]
+09-Sep-2024 14:25:13.006 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [628] millisecondes
+09-Sep-2024 14:25:13.078 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+09-Sep-2024 14:25:13.078 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/9.0.70]
+09-Sep-2024 14:25:13.094 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml]
+09-Sep-2024 14:25:13.113 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/pay] dans le descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a été ignoré
+09-Sep-2024 14:25:21.042 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès ; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+09-Sep-2024 14:25:36.167 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a pris [23 071] ms
+09-Sep-2024 14:25:36.169 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\docs]
+09-Sep-2024 14:25:36.205 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\docs] de l'application web s'est terminé en [36] ms
+09-Sep-2024 14:25:36.205 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\examples]
+09-Sep-2024 14:25:36.682 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\examples] de l'application web s'est terminé en [477] ms
+09-Sep-2024 14:25:36.683 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\host-manager]
+09-Sep-2024 14:25:36.746 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\host-manager] de l'application web s'est terminé en [62] ms
+09-Sep-2024 14:25:36.746 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\manager]
+09-Sep-2024 14:25:36.805 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\manager] de l'application web s'est terminé en [59] ms
+09-Sep-2024 14:25:36.811 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-1082"]
+09-Sep-2024 14:25:36.845 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [23838] millisecondes
+09-Sep-2024 16:16:45.563 INFO [main] org.apache.catalina.core.StandardServer.await Une commande d'arrêt valide a été reçue sur le port d'arrêt, arrêt de l'instance du serveur
+09-Sep-2024 16:16:45.565 INFO [main] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-1082"] est mis en pause
+09-Sep-2024 16:16:45.575 INFO [main] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+09-Sep-2024 16:16:45.722 INFO [main] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-1082"]
+09-Sep-2024 16:16:45.733 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-1082"]

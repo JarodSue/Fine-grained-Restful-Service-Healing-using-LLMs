@@ -1,0 +1,16 @@
+09-Sep-2024 11:03:23.924 INFO [http-nio-1080-exec-17] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+09-Sep-2024 11:03:23.924 INFO [http-nio-1080-exec-17] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+09-Sep-2024 13:20:44.552 INFO [http-nio-1080-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+09-Sep-2024 13:20:44.569 INFO [http-nio-1080-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+09-Sep-2024 13:20:44.579 INFO [http-nio-1080-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/prod'
+09-Sep-2024 13:20:45.486 INFO [http-nio-1080-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/jarod/AppData/Local/Temp/context5187700492460810689.xml'
+09-Sep-2024 13:21:08.606 INFO [http-nio-1080-exec-17] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/prod'
+09-Sep-2024 14:30:17.770 INFO [http-nio-1080-exec-24] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+09-Sep-2024 14:30:17.773 INFO [http-nio-1080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+09-Sep-2024 14:30:18.123 INFO [http-nio-1080-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/prod'
+09-Sep-2024 14:30:35.924 INFO [http-nio-1080-exec-27] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/jarod/AppData/Local/Temp/context11297958942185898797.xml'
+09-Sep-2024 14:30:52.764 INFO [http-nio-1080-exec-26] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/prod'
+09-Sep-2024 15:20:56.748 INFO [http-nio-1084-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+09-Sep-2024 15:20:56.748 INFO [http-nio-1084-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+09-Sep-2024 15:23:15.930 INFO [http-nio-1084-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+09-Sep-2024 15:23:15.930 INFO [http-nio-1084-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available

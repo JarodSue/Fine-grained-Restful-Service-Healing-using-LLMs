@@ -1,0 +1,6 @@
+16-Sep-2024 13:38:21.919 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+16-Sep-2024 13:38:21.919 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+16-Sep-2024 13:38:21.979 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@41fe9859')
+16-Sep-2024 13:42:26.243 INFO [http-nio-1084-exec-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+16-Sep-2024 13:42:33.655 INFO [http-nio-1084-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+16-Sep-2024 13:42:46.330 INFO [http-nio-1084-exec-9] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'

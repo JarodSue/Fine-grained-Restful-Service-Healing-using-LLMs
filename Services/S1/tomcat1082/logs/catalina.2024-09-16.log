@@ -1,0 +1,159 @@
+16-Sep-2024 13:38:17.305 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/9.0.70
+16-Sep-2024 13:38:17.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Dec 1 2022 14:05:47 UTC
+16-Sep-2024 13:38:17.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               9.0.70.0
+16-Sep-2024 13:38:17.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Windows 11
+16-Sep-2024 13:38:17.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       10.0
+16-Sep-2024 13:38:17.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+16-Sep-2024 13:38:17.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        C:\Program Files\Java\jdk-17
+16-Sep-2024 13:38:17.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.11+7-LTS-207
+16-Sep-2024 13:38:17.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Oracle Corporation
+16-Sep-2024 13:38:17.316 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    C:\Users\jarod\Documents\S1\tomcat1082
+16-Sep-2024 13:38:17.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    C:\Users\jarod\Documents\S1\tomcat1082
+16-Sep-2024 13:38:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+16-Sep-2024 13:38:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+16-Sep-2024 13:38:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+16-Sep-2024 13:38:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+16-Sep-2024 13:38:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+16-Sep-2024 13:38:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=C:\Users\jarod\Documents\S1\tomcat1082\conf\logging.properties
+16-Sep-2024 13:38:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Sep-2024 13:38:17.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djdk.tls.ephemeralDHKeySize=2048
+16-Sep-2024 13:38:17.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Sep-2024 13:38:17.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dignore.endorsed.dirs=
+16-Sep-2024 13:38:17.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=C:\Users\jarod\Documents\S1\tomcat1082
+16-Sep-2024 13:38:17.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=C:\Users\jarod\Documents\S1\tomcat1082
+16-Sep-2024 13:38:17.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=C:\Users\jarod\Documents\S1\tomcat1082\temp
+16-Sep-2024 13:38:17.361 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path : [C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Users\jarod\AppData\Local\Microsoft\WindowsApps;C:\Users\jarod\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jarod\Documents\apache-maven-3.9.9\bin;;.]
+16-Sep-2024 13:38:18.595 INFO [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-1082"]
+16-Sep-2024 13:38:18.659 INFO [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [2060] millisecondes
+16-Sep-2024 13:38:18.922 INFO [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+16-Sep-2024 13:38:18.923 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/9.0.70]
+16-Sep-2024 13:38:18.974 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\app.xml]
+16-Sep-2024 13:38:19.033 WARNING [main] org.apache.catalina.core.StandardContext.setPath Un chemin de contexte doit être soit une chaîne vide soit commencer par un '/' et ne pas finir par un '/', le chemin [app] ne répond pas à ces conditions et a été changé en [/app]
+16-Sep-2024 13:38:19.035 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/app] dans le descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\app.xml] a été ignoré
+16-Sep-2024 13:38:19.114 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Erreur lors du déploiement du descripteur de configuration [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\app.xml]
+	java.lang.IllegalStateException: Erreur lors du démarrage du conteneur fils
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:729)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:696)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:689)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1888)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:582)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:472)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1617)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:318)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:943)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1393)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1383)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:916)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:265)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:430)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: org.apache.catalina.LifecycleException: Echec de démarrage du composant [org.apache.catalina.webresources.StandardRoot@1cf56a1c]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4881)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5014)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: L'ensemble de ressources principal [C:\Users\jarod\Documents\S2\dernierService\Service\target\AppManager-0.0.1-SNAPSHOT] est invalide
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:777)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:734)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 41 more
+16-Sep-2024 13:38:19.151 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\app.xml] a pris [174] ms
+16-Sep-2024 13:38:19.152 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml]
+16-Sep-2024 13:38:19.154 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/pay] dans le descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a été ignoré
+16-Sep-2024 13:38:19.166 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Erreur lors du déploiement du descripteur de configuration [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml]
+	java.lang.IllegalStateException: Erreur lors du démarrage du conteneur fils
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:729)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:696)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:689)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1888)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:582)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:472)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1617)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:318)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:943)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1393)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1383)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:916)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:265)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:430)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: org.apache.catalina.LifecycleException: Echec de démarrage du composant [org.apache.catalina.webresources.StandardRoot@72d6b3ba]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4881)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5014)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: L'ensemble de ressources principal [C:\Users\jarod\Documents\S1\app\CardForTest\target\demo-0.0.1-SNAPSHOT] est invalide
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:777)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:734)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 41 more
+16-Sep-2024 13:38:19.516 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a pris [364] ms
+16-Sep-2024 13:38:19.518 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\docs]
+16-Sep-2024 13:38:20.599 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\docs] de l'application web s'est terminé en [1 080] ms
+16-Sep-2024 13:38:20.600 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\examples]
+16-Sep-2024 13:38:22.168 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\examples] de l'application web s'est terminé en [1 567] ms
+16-Sep-2024 13:38:22.169 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\host-manager]
+16-Sep-2024 13:38:22.367 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\host-manager] de l'application web s'est terminé en [198] ms
+16-Sep-2024 13:38:22.368 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [C:\Users\jarod\Documents\S1\tomcat1082\webapps\manager]
+16-Sep-2024 13:38:22.528 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [C:\Users\jarod\Documents\S1\tomcat1082\webapps\manager] de l'application web s'est terminé en [160] ms
+16-Sep-2024 13:38:22.537 INFO [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-1082"]
+16-Sep-2024 13:38:22.642 INFO [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [3978] millisecondes
+16-Sep-2024 13:42:43.823 INFO [http-nio-1082-exec-8] org.apache.catalina.startup.HostConfig.undeploy Retrait de l'application web ayant pour chemin de contexte [/pay]
+16-Sep-2024 13:42:44.335 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Retrait de l'application web ayant pour chemin de contexte [/pay]
+16-Sep-2024 13:42:44.905 INFO [http-nio-1082-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml]
+16-Sep-2024 13:42:44.907 WARNING [http-nio-1082-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/pay] dans le descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a été ignoré
+16-Sep-2024 13:42:56.659 INFO [http-nio-1082-exec-15] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès ; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+16-Sep-2024 13:43:14.074 INFO [http-nio-1082-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [C:\Users\jarod\Documents\S1\tomcat1082\conf\Catalina\localhost\pay.xml] a pris [29 168] ms
+16-Sep-2024 13:44:07.033 INFO [http-nio-1082-exec-18] org.apache.catalina.util.LifecycleBase.start La méthode start() a été appelée sur le composant [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/pay]] après que start() ait déjà été appelé, le deuxième appel sera ignoré

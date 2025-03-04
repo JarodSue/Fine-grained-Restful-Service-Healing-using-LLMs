@@ -1,0 +1,54 @@
+2022-05-28 07:51:29 default[1]  2022-05-28 07:51:29.816  INFO 10 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-28 07:51:29 default[1]  2022-05-28 07:51:29.986  INFO 10 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-05-28 07:51:30 default[1]  2022-05-28 07:51:30.826  INFO 10 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-28 07:51:30 default[1]  2022-05-28 07:51:30.837  INFO 10 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-28 07:51:30 default[1]  2022-05-28 07:51:30.957  WARN 10 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-28 07:51:32 default[1]  2022-05-28 07:51:32.297  INFO 10 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8084 (http) with context path ''
+2022-05-28 07:51:32 default[1]  2022-05-28 07:51:32.310  INFO 10 --- [           main] c.e.l.LoanApprovalApplication            : Started LoanApprovalApplication in 6.987 seconds (JVM running for 8.4)
+2022-05-28 07:51:34 default[1]  "GET /favicon.ico HTTP/1.1" 500
+2022-05-28 07:51:36 default[1]
+2022-05-28 07:51:36 default[1]    .   ____          _            __ _ _
+2022-05-28 07:51:36 default[1]   /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+2022-05-28 07:51:36 default[1]  ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+2022-05-28 07:51:36 default[1]   \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+2022-05-28 07:51:36 default[1]    '  |____| .__|_| |_|_| |_\__, | / / / /
+2022-05-28 07:51:36 default[1]   =========|_|==============|___/=/_/_/_/
+2022-05-28 07:51:36 default[1]   :: Spring Boot ::                (v2.7.0)
+2022-05-28 07:51:36 default[1]
+2022-05-28 07:51:36 default[1]  2022-05-28 07:51:36.589  INFO 11 --- [           main] c.e.l.LoanApprovalApplication            : Starting LoanApprovalApplication v0.0.1-SNAPSHOT using Java 11.0.15 on localhost with PID 11 (/workspace/LoanApproval-0.0.1-SNAPSHOT.jar started by www-data in /workspace)
+2022-05-28 07:51:36 default[1]  2022-05-28 07:51:36.592  INFO 11 --- [           main] c.e.l.LoanApprovalApplication            : No active profile set, falling back to 1 default profile: "default"
+2022-05-28 07:51:37 default[1]  2022-05-28 07:51:37.671  INFO 11 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-28 07:51:37 default[1]  2022-05-28 07:51:37.693  INFO 11 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 0 JPA repository interfaces.
+2022-05-28 07:51:38 default[1]  2022-05-28 07:51:38.228  INFO 11 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$6f080503] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-05-28 07:51:38 default[1]  2022-05-28 07:51:38.335  INFO 11 --- [           main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2022-05-28 07:51:38 default[1]  2022-05-28 07:51:38.869  INFO 11 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8084 (http)
+2022-05-28 07:51:38 default[1]  2022-05-28 07:51:38.884  INFO 11 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-28 07:51:38 default[1]  2022-05-28 07:51:38.884  INFO 11 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-05-28 07:51:38 default[1]  2022-05-28 07:51:38.967  INFO 11 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-28 07:51:38 default[1]  2022-05-28 07:51:38.967  INFO 11 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2316 ms
+2022-05-28 07:51:39 default[1]  2022-05-28 07:51:39.613  INFO 11 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-05-28 07:51:39 default[1]  2022-05-28 07:51:39.962  INFO 11 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-05-28 07:51:40 default[1]  2022-05-28 07:51:40.048  INFO 11 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-28 07:51:40 default[1]  2022-05-28 07:51:40.129  INFO 11 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.9.Final
+2022-05-28 07:51:40 default[1]  2022-05-28 07:51:40.362  INFO 11 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-05-28 07:51:40 default[1]  2022-05-28 07:51:40.543  INFO 11 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-05-28 07:51:41 default[1]  2022-05-28 07:51:41.367  INFO 11 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-28 07:51:41 default[1]  2022-05-28 07:51:41.379  INFO 11 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-28 07:51:41 default[1]  2022-05-28 07:51:41.504  WARN 11 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-28 07:51:43 default[1]  2022-05-28 07:51:43.002  INFO 11 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8084 (http) with context path ''
+2022-05-28 07:51:43 default[1]  2022-05-28 07:51:43.019  INFO 11 --- [           main] c.e.l.LoanApprovalApplication            : Started LoanApprovalApplication in 7.173 seconds (JVM running for 8.255)
+2022-05-28 07:52:14 default[1]  "GET /loanApproval/comptes HTTP/1.1" 500
+2022-05-28 07:52:16 default[1]
+2022-05-28 07:52:16 default[1]    .   ____          _            __ _ _
+2022-05-28 07:52:16 default[1]   /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+2022-05-28 07:52:16 default[1]  ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+2022-05-28 07:52:16 default[1]   \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+2022-05-28 07:52:16 default[1]    '  |____| .__|_| |_|_| |_\__, | / / / /
+2022-05-28 07:52:16 default[1]   =========|_|==============|___/=/_/_/_/
+2022-05-28 07:52:16 default[1]   :: Spring Boot ::                (v2.7.0)
+2022-05-28 07:52:16 default[1]
+2022-05-28 07:52:17 default[1]  2022-05-28 07:52:17.118  INFO 10 --- [           main] c.e.l.LoanApprovalApplication            : Starting LoanApprovalApplication v0.0.1-SNAPSHOT using Java 11.0.15 on localhost with PID 10 (/workspace/LoanApproval-0.0.1-SNAPSHOT.jar started by www-data in /workspace)
+2022-05-28 07:52:17 default[1]  2022-05-28 07:52:17.121  INFO 10 --- [           main] c.e.l.LoanApprovalApplication            : No active profile set, falling back to 1 default profile: "default"
+2022-05-28 07:52:18 default[1]  2022-05-28 07:52:18.217  INFO 10 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Terminer le programme de commandes (O/N)ÿ? Terminer le programme de commandes (O/N)ÿ? Terminer le programme de commandes (O/N)ÿ? 
+Terminer le programme de commandes (O/N)ÿ? 

@@ -1,0 +1,29 @@
+acc manager 1081:
+/comptes
+/comptes/id
+/comptes post nouveau compte
+/comptes/id put update
+/comptes/id delete
+public Compte(int id, String nom, int account, String prenom, String risk) {
+        this.id = id;
+        this.nom = nom;
+        this.account = account;
+        this.prenom = prenom;
+        this.risk = risk;
+    }
+
+app manager 1082:
+/approvals
+/approvals/id
+/approvals post
+/approvals.id put
+/approvals/id delete
+public Approval(int id, String nom, String reponse) {
+                this.id = id;
+                this.nom = nom;
+                this.reponse = reponse;
+        }
+
+check account 1083:
+post /check
+get /check/id

@@ -1,0 +1,5 @@
+27-Sep-2024 18:13:58.256 INFO [main] org.apache.catalina.core.StandardServer.await Une commande d'arrêt valide a été reçue sur le port d'arrêt, arrêt de l'instance du serveur
+27-Sep-2024 18:13:58.265 INFO [main] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-1081"] est mis en pause
+27-Sep-2024 18:13:58.288 INFO [main] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+27-Sep-2024 18:14:02.062 INFO [main] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-1081"]
+27-Sep-2024 18:14:02.077 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-1081"]
