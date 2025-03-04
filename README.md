@@ -5,3 +5,4 @@ https://lookerstudio.google.com/reporting/0c685523-ad5b-4065-aca2-5c20a91cb4ee/p
 
 link to piggymetrics : https://github.com/sqshq/piggymetrics
 link to eShopOnContainers : https://github.com/dotnet/eShop
+link to ollama : https://ollama.com/
